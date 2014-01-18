@@ -1,5 +1,3 @@
 Nuevo mensaje archivo 1
 
 Cambio para la rama caracteristicas
-
-Nuevo cambio para la rama caracteristicas
