@@ -1,2 +1,2 @@
 Nuevo mensaje archivo 1
-Cambio para la rama caracteristicas
+Cambio para la rama caracteristicas, saludos
