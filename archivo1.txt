@@ -1,2 +1,1 @@
-Nuevo mensaje archivo 1, saludos
-Cambio para la rama caracteristicas
+Nuevo mensaje archivo 1
